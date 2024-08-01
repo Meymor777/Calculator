@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Calculator/.vs
+/Calculator/Calculator.BL/bin
+/Calculator/Calculator.BL/obj
+/Calculator/Calculator.Test/bin
+/Calculator/Calculator.Test/obj
+/Calculator/Calculator.UI/App/Calculator.BL.dll
+/Calculator/Calculator.UI/App/Calculator.BL.pdb
+/Calculator/Calculator.UI/App/Calculator.UI.deps.json
+/Calculator/Calculator.UI/App/Calculator.UI.dll
+/Calculator/Calculator.UI/App/Calculator.UI.exe
+/Calculator/Calculator.UI/App/Calculator.UI.pdb
+/Calculator/Calculator.UI/App/Calculator.UI.runtimeconfig.json
+/Calculator/Calculator.UI/bin
+/Calculator/Calculator.UI/obj
+/Calculator/Calculator.UI/Properties/PublishProfiles
